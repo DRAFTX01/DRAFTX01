@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🌱 I’m currently learning **Web-dev Back-end frameworks.**
+- 🌱 I’m currently learning **Back-end frameworks for Web-dev.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DRAFTX01](https://github.com/DRAFTX01)
 
